@@ -1,0 +1,16 @@
+.options{
+  direction: rtl;
+}
+
+.d-Item{
+  direction: rtl !important;
+  display:block;
+  float: right;
+  margin-right: 0;
+}
+
+@media only screen and (max-width: 600px) {
+    .options{
+      display: none !important;
+    }
+}

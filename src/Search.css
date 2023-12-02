@@ -1,0 +1,15 @@
+.Input{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.myInput{
+    border: transparent;
+    border-bottom: 1px solid black;
+    height:30px;
+    width:230px;
+    padding-top:8px;
+    margin: 15px 10px;
+
+}

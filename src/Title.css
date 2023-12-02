@@ -1,0 +1,17 @@
+.T-one{
+    display:flex;
+    justify-content: start;
+    flex-direction: column;
+    padding-top: 20px;
+    padding-right: 130px;
+}
+
+.T-two{
+    margin-top:15px;
+}
+
+@media only screen and (max-width: 600px) {
+    .T-one {
+      padding-right: 20px;
+    }
+  }

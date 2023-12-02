@@ -1,0 +1,41 @@
+.show-one{
+    display: flex;
+    justify-content: center;
+    padding-top: 30px;
+}
+
+.show-pr{
+    font-size: 15px;
+    padding-top: 20px;
+    background-color: white;
+    border-radius: 5px;
+    display: flex;
+    height:100px;
+    width:1140px;
+}
+
+.text{
+    height:30px;
+    border-bottom: 1px solid gray;
+    cursor: pointer;
+    margin-right: 25px;
+    margin-top: 10px;
+
+}
+
+.arrow {
+    font-size: 15px;
+    margin-right: 250px;
+   
+}
+.dropdown-menu{
+    height: 200px;
+    padding-top: 20px;
+}
+
+
+
+.dropdown-item{
+    text-decoration: none;
+}
+

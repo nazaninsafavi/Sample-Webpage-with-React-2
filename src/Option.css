@@ -1,0 +1,13 @@
+.btns{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.tools{
+    font-weight: bold;
+    padding:5px 10px;
+    border:2px solid black;
+    border-radius: 10px;
+}
